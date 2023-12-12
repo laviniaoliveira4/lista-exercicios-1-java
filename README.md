@@ -1,2 +1,2 @@
 # lista-exercicios-1-java
-lista um em java
+Estudos sobre Estrutura Sequencial na linguagem Java
